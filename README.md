@@ -1,6 +1,5 @@
 <div style="display: flex; align-items: center; gap: 5px;">
   <img src="images/jibenxinxi.png" style="height: 1.5em; width: 1.5em; object-fit: contain;">
-  <h2>基本信息</h2>
 </div>
 
 <table width="100%">
@@ -38,7 +37,6 @@
 
 <div style="display: flex; align-items: center; gap: 5px;">
   <img src="images/jiaoyubeijing.png" style="height: 1.5em; width: 1.5em; object-fit: contain;">
-  <h2>教育背景</h2>
 </div>
 
 <table width="100%">
@@ -85,7 +83,6 @@
 
 <div style="display: flex; align-items: center; gap: 5px;">
   <img src="images/zhuanyejineng.png" style="height: 1.5em; width: 1.5em; object-fit: contain;">
-  <h2>专业技能</h2>
 </div>
 
 - **语言：**  
