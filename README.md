@@ -1,6 +1,6 @@
 <tr><td>
 
-# 👤 基本信息
+## 👤 基本信息
 
 <img align="right" width="88" src="images/cozy.png" style="border-radius:50%;" />
 
@@ -12,7 +12,7 @@
 
 <tr><td>
 
-# 🏫 教育背景
+## 🎓 教育背景
 
 <img align="right" width="88" src="images/hfut.png" style="border-radius:50%;" />
 
@@ -32,7 +32,7 @@
 
 <tr><td>
 
-# 🏢 实习经历
+## 💼 实习经历
 
 <img align="right" width="88" src="images/bili.png" style="border-radius:50%;" />
 
@@ -45,7 +45,7 @@
 
 <tr><td>
 
-# 🔧 专业技能
+## 🔧 专业技能
 
 - ![Language](https://img.shields.io/badge/language-007ACC?style=for-the-badge&logo=google-translate&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
