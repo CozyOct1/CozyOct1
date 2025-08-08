@@ -2,7 +2,7 @@
 
 # 👤 基本信息
 
-<img align="right" width="88" src="images/cozy.png" />
+<img align="right" width="88" src="images/cozy.png" style="border-radius:50%;" />
 
 <p>&emsp;&emsp; 👨‍💻 CozyOct1 </p>
 <p>&emsp;&emsp; ⌛ 23岁 </p>
@@ -14,14 +14,14 @@
 
 # 🏫 教育背景
 
-<img align="right" width="88" src="images/hfut.png" />
+<img align="right" width="88" src="images/hfut.png" style="border-radius:50%;" />
 
 - [合肥工业大学](https://www.hfut.edu.cn/) &emsp; 🕰️ 2020.09 —— 2024.06
 
   - 专业：智能科学与技术
   - 学位：本科
 
-<img align="right" width="88" src="images/zju.png" />
+<img align="right" width="88" src="images/zju.png" style="border-radius:50%;" />
 
 - [浙江大学](https://www.zju.edu.cn/) &emsp; 🕰️ 2024.09 —— 2027.06
 
@@ -34,7 +34,7 @@
 
 # 🏢 实习经历
 
-<img align="right" width="88" src="images/bili.png" />
+<img align="right" width="88" src="images/bili.png" style="border-radius:50%;" />
 
 - [上海哔哩哔哩股份有限公司](https://www.bilibili.com/) &emsp; 🕰️ 2025-05 —— 2025-08
 
