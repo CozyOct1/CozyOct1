@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center; gap: 5px;">
-  <img src="images/jibenxinxi.png" style="height: 1.5em; width: 1.5em; object-fit: contain;"><strong>基本信息</strong>
+  <img src="images/jibenxinxi.png" style="height: 1.5em; width: 1.5em; object-fit: contain;"><h1>基本信息</h1>
 </div>
 
 <div style="display: flex; align-items: center; gap: 5px;">
