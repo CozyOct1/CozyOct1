@@ -12,6 +12,26 @@
 
 <tr><td>
 
+# 🏫 教育背景
+
+<img align="right" width="88" src="images/hfut.png" />
+
+- [合肥工业大学](https://www.hfut.edu.cn/) &emsp; 🕰️ 2020.09 —— 2024.06
+
+  - 专业：智能科学与技术
+  - 学位：本科
+
+<img align="right" width="88" src="images/zju.png" />
+
+- [浙江大学](https://www.zju.edu.cn/) &emsp; 🕰️ 2024.09 —— 2027.06
+
+  - 专业：人工智能
+  - 学位：硕士
+
+</td></tr>
+
+<tr><td>
+
 # 🏢 实习经历
 
 <img align="right" width="88" src="images/bili.png" />
