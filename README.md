@@ -1,33 +1,14 @@
 <tr><td>
 
-# About Me
+# 👤 基本信息
 
 <img align="right" width="88" src="images/cozy.png" />
 
-<div style="display: flex; align-items: center; gap: 5px;">
-<img src="images/nan.png" style="height: 1em; width: 1em; object-fit: contain;">
-<strong>CozyOct1</strong>
-</div>
-<div>&nbsp;</div>
-<div style="display: flex; align-items: center; gap: 5px;">
-<img src="images/renwu-tuandui.png" style="height: 1em; width: 1em; object-fit: contain;">
-<strong>23 岁</strong>
-</div>
-<div>&nbsp;</div>
-<div style="display: flex; align-items: center; gap: 5px;">
-<img src="images/dizhi.png" style="height: 1em; width: 1em; object-fit: contain;">
-<strong>浙江省杭州市</strong>
-</div>
-<div>&nbsp;</div>
-<div style="display: flex; align-items: center; gap: 5px;">
-<img src="images/shouji.png" style="height: 1em; width: 1em; object-fit: contain;">
-<strong>15551651895</strong>
-</div>
-<div>&nbsp;</div>
-<div style="display: flex; align-items: center; gap: 5px;">
-<img src="images/youxiang.png" style="height: 1em; width: 1em; object-fit: contain;">
-<strong>nwj_zju@foxmail.com</strong>
-</div>
-<div>&nbsp;</div>
-</td></tr>
+<p>&emsp;&emsp; 👨‍💻 CozyOct1 </p>
+<p>&emsp;&emsp; ⌛ 23岁 </p>
+<p>&emsp;&emsp; 🏠 浙江杭州 </p>
+<p>&emsp;&emsp; 📱 15551651895 </p>
+<p>&emsp;&emsp; 📧 nwj_zju@foxmail.com </p>
+<p>&emsp;&emsp; 📝 <a href="https://cozyoct1.github.io/">https://cozyoct1.github.io/</a> </p>
 
+</td></tr>
