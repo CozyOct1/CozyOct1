@@ -17,6 +17,7 @@
 <img align="right" width="88" src="images/bili.png" />
 
 - [上海哔哩哔哩股份有限公司](https://www.bilibili.com/) &emsp; 🕰️ 2025-05 —— 2025-08
+
   - 工作岗位：大模型&AIGC 研发工程师
   - 工作内容：数码推荐智能体
 
