@@ -2,36 +2,26 @@
   <img src="images/jibenxinxi.png" style="height: 1.5em; width: 1.5em; object-fit: contain;">
 </div>
 
-<table width="100%">
-  <tr>
-    <td width="70%">
-      <div style="display: flex; align-items: center; gap: 5px;">
-        <img src="images/nan.png" style="height: 1em; width: 1em; object-fit: contain;">
-        <strong>CozyOct1</strong>
-      </div>
-      <div style="display: flex; align-items: center; gap: 5px;">
-        <img src="images/renwu-tuandui.png" style="height: 1em; width: 1em; object-fit: contain;">
-        <strong>23 岁</strong>
-      </div>
-      <div style="display: flex; align-items: center; gap: 5px;">
-        <img src="images/dizhi.png" style="height: 1em; width: 1em; object-fit: contain;">
-        <strong>浙江省杭州市</strong>
-      </div>
-      <div style="display: flex; align-items: center; gap: 5px;">
-        <img src="images/shouji.png" style="height: 1em; width: 1em; object-fit: contain;">
-        <strong>15551651895</strong>
-      </div>
-      <div style="display: flex; align-items: center; gap: 5px;">
-        <img src="images/youxiang.png" style="height: 1em; width: 1em; object-fit: contain;">
-        <strong>nwj_zju@foxmail.com</strong>
-      </div>
-    </td>
-    <td width="30%" align="right">
-      <!-- 证件照位置 -->
-      <img src="images/cozy.png" style="width: 100px; height: 100px; border-radius: 50%;">
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; gap: 5px;">
+<img src="images/nan.png" style="height: 1em; width: 1em; object-fit: contain;">
+<strong>CozyOct1</strong>
+</div>
+<div style="display: flex; align-items: center; gap: 5px;">
+<img src="images/renwu-tuandui.png" style="height: 1em; width: 1em; object-fit: contain;">
+<strong>23 岁</strong>
+</div>
+<div style="display: flex; align-items: center; gap: 5px;">
+<img src="images/dizhi.png" style="height: 1em; width: 1em; object-fit: contain;">
+<strong>浙江省杭州市</strong>
+</div>
+<div style="display: flex; align-items: center; gap: 5px;">
+<img src="images/shouji.png" style="height: 1em; width: 1em; object-fit: contain;">
+<strong>15551651895</strong>
+</div>
+<div style="display: flex; align-items: center; gap: 5px;">
+<img src="images/youxiang.png" style="height: 1em; width: 1em; object-fit: contain;">
+<strong>nwj_zju@foxmail.com</strong>
+</div>
 
 <br>
 
